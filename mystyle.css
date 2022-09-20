@@ -6,9 +6,9 @@ h1 { text-align: center}
 
 .flex-child {
     flex: 1;
-    border: 2px solid yellow;
+    border: 2px solid black;
 }  
 
 .flex-child:first-child {
-    margin-right: 20px;
+    margin-right: 0px;
 }
