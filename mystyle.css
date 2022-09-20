@@ -7,8 +7,10 @@ h1 { text-align: center}
 .flex-child {
     flex: 1;
     border: 2px solid black;
+    fill: green;
 }  
 
 .flex-child:first-child {
     margin-right: 0px;
+    fill: white;
 }
